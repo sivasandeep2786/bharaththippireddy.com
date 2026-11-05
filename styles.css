@@ -86,10 +86,10 @@
 <!-- Book Section -->
 <section class="about" id="book">
 <div class="container">
-<div class="section-header">
+<div class="section-header" style="text-align:left;">
 <h2>Hanuman's Leap</h2>
 <p><em>Eight Stages. One Map. Your Crossing.</em></p>
-<div class="section-divider"></div>
+<div class="section-divider" style="margin:0 0 0 0;"></div>
 </div>
 <div style="display:flex; gap:40px; align-items:flex-start; flex-wrap:wrap;">
 <img src="images/hanumanleap.jpg" alt="Hanuman's Leap Book Cover"
